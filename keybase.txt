@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/filipe_mp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://filipemp.github.io
+  * I am filipe_mp (https://keybase.io/filipe_mp) on keybase.
+  * I have a public key ASCmLndDfEJajk0iEhzgrADq89caO-Grt-RAREq9w5LxBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a62e77437c425a8e4d22121ce0ac00eaf3d71a3be1abb7e440444abdc392f1060a",
+      "host": "keybase.io",
+      "kid": "0120a62e77437c425a8e4d22121ce0ac00eaf3d71a3be1abb7e440444abdc392f1060a",
+      "uid": "5d676ee8d7e7ce122fc2ba20c1ca0719",
+      "username": "filipe_mp"
+    },
+    "merkle_root": {
+      "ctime": 1534725789,
+      "hash": "685f5d41ad3709396d6330da9f7921ee316de2666c0683e0b26cd784871ea8c9b33df34335acc5f6d2c581255f001b1b35ea90736892d2cbf36acbc553290e1e",
+      "hash_meta": "3c3f1baecb275c67f5e2b90b2a49f9dde479f419d946eb519e31fdea7f38acbd",
+      "seqno": 3481862
+    },
+    "service": {
+      "entropy": "Pwiunbshp6/QeiPCD8/TUv82",
+      "hostname": "filipemp.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534725799,
+  "expire_in": 504576000,
+  "prev": "3fb0b762b18259626b9a190940961e430ff3a07d56edf79cfbbb29c77cfda739",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpi53Q3xCWo5NIhIc4KwA6vPXGjvhq7fkQERKvcOS8QYKp3BheWxvYWTESpcCE8QgP7C3YrGCWWJrmhkJQJYeQw/zoH1W7fec+7spx3z9pznEILghVgh+HxY2z4xX+w/w5FnQ0QU3GASG25RG/g9Y0xe5AgHCo3NpZ8RAubM0J8afwLm/5rUhje3M24mWm45zOekbu+wURBhdIrVqNBMcdL4ngdKg7MkzvtlFt+2o0qs2dGAN50B/6dlvD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIPhmqMgBU0HRkdcTW7SVn3LTC1+zf9/wVt5LJ8sZJ3jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/filipe_mp
+
+==================================================================
